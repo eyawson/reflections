@@ -7,4 +7,6 @@ I would want to have both because it means I can work local and also when I'm aw
 
 Then there wil be too many or uneccesary commits.
 
-3.
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is making a clone of somebody else's repository but it only occurs in github. A clone is making an exact copy of a repo in your github. 
